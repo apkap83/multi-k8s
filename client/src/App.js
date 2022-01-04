@@ -14,7 +14,7 @@ function App() {
             exact
             render={() => (
               <div>
-                <Link to="/fib">Fib - Version 2</Link>
+                <Link to="/fib">Fib - Version KUBERNETES!</Link>
                 <br />
                 <Link to="/otherpage">Other Page</Link>
               </div>
